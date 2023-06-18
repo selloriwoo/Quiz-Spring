@@ -27,7 +27,6 @@ public class QuizChoiceChoiceServiceImpl implements QuizChoiceService {
 
     @Override
     public QuizChoice getQuiz(long quizID) {
-        System.out.println("ggggggggggg"+quizID);
         QuizChoice quizChoice= quizRepository.findByQuizID(quizID);
 
         return quizChoice;

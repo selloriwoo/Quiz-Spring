@@ -54,7 +54,7 @@
 + spring.datasource.password에는 DB의 로그인 비밀번호를 입력해준다.
 
 주의)
-  + spring.jpa.hibernate.ddl-auto는 상세한 DB의 초기화를 선택할 수 있다.
-    create는 SessionFactory가 시작될 때 drop을 실행하고 create해준다.
-    update는 변경된 스키마가 있으면 update해준다.
+  + spring.jpa.hibernate.ddl-auto는 상세한 DB의 초기화를 선택할 수 있다.<br />
+    &nbsp create는 SessionFactory가 시작될 때 drop을 실행하고 create해준다.<br />
+    &nbsp update는 변경된 스키마가 있으면 update해준다.
 </details>

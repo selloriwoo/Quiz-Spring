@@ -5,11 +5,11 @@
 ![1 index](https://github.com/selloriwoo/Quiz-Spring/assets/39435633/7fe1848f-16f6-4a1d-825f-dd4014edf1f7)
 
 1. **Dependency**
-2. Spring Web, Thymeleaf, Lombok, Spring Boot DevTools, Spring Data JPA, QueryDSL
-3. **html, css, javascript Library**
-4. Bootstrap, Google Font
-5. **DB**
-6. mariaDB
+   Spring Web, Thymeleaf, Lombok, Spring Boot DevTools, Spring Data JPA, QueryDSL
+2. **html, css, javascript Library**
+   Bootstrap, Google Font
+3. **DB**
+   mariaDB
 
 ## 상세 구현 내용
 

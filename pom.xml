@@ -50,10 +50,7 @@
 			<artifactId>spring-boot-devtools</artifactId>
 			<optional>true</optional>
 		</dependency>
-<<<<<<< HEAD
 		<!-- https://mvnrepository.com/artifact/com.querydsl/querydsl-jpa -->
-=======
->>>>>>> af31f42487c93d451746863df5535173a46022a7
 		<dependency>
 			<groupId>com.querydsl</groupId>
 			<artifactId>querydsl-jpa</artifactId>

@@ -51,7 +51,6 @@
 			<optional>true</optional>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.querydsl/querydsl-jpa -->
-		<!--		 책이랑 다르게 <version>을 추가해야함. 또 scope대신에 <classifier>도 들어감-->
 		<dependency>
 			<groupId>com.querydsl</groupId>
 			<artifactId>querydsl-jpa</artifactId>

@@ -8,7 +8,7 @@
    &nbsp; Spring Web, Thymeleaf, Lombok, Spring Boot DevTools, Spring Data JPA, QueryDSL
 2. **html, css, javascript Library**<br />
    &nbsp; Bootstrap, Google Font
-3. **DB**
+3. **DB**<br />
    &nbsp; mariaDB
 
 ## 상세 구현 내용

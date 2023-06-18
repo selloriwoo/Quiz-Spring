@@ -56,6 +56,7 @@
 ## Setting
   
 ![8](https://github.com/selloriwoo/Quiz-Spring/assets/39435633/bf47da5e-94e5-4489-a157-650c38068b93)
+  **application.properties 파일**
 + spring.datasource.driverClassName에는 DB드라이버를 셋팅해준다.
 + spring.datasource.url에는 DB의 주소를 넣어준다.
   ex)jdbc:mariadb://localhost:3306/(DB의 이름)

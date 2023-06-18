@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul,ol {list-style: none;}
+a { text-decoration: none; color : black;}
+
+
+
+body {
+    padding-top: 50px;
+}
+nav{
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    /*상단 메뉴바에 분별감 있게 약간의 그림자 추기*/
+    box-shadow: 0px 0px 0px 1px rgb(0, 0, 0, 0.1)
+}
+
+nav .logo{
+    position: absolute;
+
+}
+nav .logo img{
+    cursor: pointer;
+}
+nav .Menu{
+    width: 650px;
+    height: 100%;
+    margin: 0 auto;
+    font-family: 'Jua', sans-serif;
+}
+
+nav .Menu ul {
+
+}
+nav .Menu ul li{
+    float: left;
+    margin-left: 150px;
+    font-size: 25px;
+}
+
+nav .loginMenu{
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 300px;
+    font-family: 'Jua', sans-serif;
+}
+
+nav .loginMenu ul .signUpMenu{
+    opacity: 0.5;
+}
+
+nav .loginMenu ul{
+    line-height: 50px;
+}
+
+
+nav .loginMenu li{
+    float: left;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.container{
+    margin-top: 20px;
+    height: 1000px;
+    position : relative;
+}
+
+.container .AnswerContent{
+    height: 400px;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 150px;
+    border: gray solid 3px;
+    background-color: rgba(255,0,0,0.5);
+}
+
+.container .AnswerCorrectContent{
+    height: 400px;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 150px;
+    border: gray solid 3px;
+    background-color: rgba(152,251,152,0.5);
+}
+
+.container  .Text{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Jua', sans-serif;
+    margin-top: 20px;
+}
+
+.container  .choice{
+    height: 70px;
+    width: 590px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container .correct{
+    height: 70px;
+    width: 590px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.container .next{
+    width: 250px;
+    margin: 0 auto;
+}
